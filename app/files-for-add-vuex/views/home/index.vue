@@ -2,7 +2,7 @@
   <div class="home">
     <div class="content jello">
       <h1 v-directive-sample:arg="'msg'">
-        {{ `Vue` | filterSample('前端架构') }}
+        {{ `Vue` | filterSample('之脚手架') }}
         <span>- by 咻</span>
       </h1>
       <a href="https://github.com/CodeLittlePrince/blog" target="__blank">

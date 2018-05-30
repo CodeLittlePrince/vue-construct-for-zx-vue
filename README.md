@@ -1,4 +1,4 @@
-Vue前端架构
+Vue之脚手架
 ---
 想想也做过不少不同架构的项目，有Vue，有React，有ThinkPHP，有Laravel。
 这是本王总结了很多项目下来的经验做的前端项目架构。
@@ -59,4 +59,4 @@ nodemon                 | 修改node代码不需要重启监听，一直运行�
 ### 发布
 `npm run prod`
 
-![Vue前端架构](https://github.com/CodeLittlePrince/ImagesForGithub/blob/master/vue-construct-1.png?raw=true)
+![Vue之脚手架](https://github.com/CodeLittlePrince/ImagesForGithub/blob/master/vue-construct-1.png?raw=true)
